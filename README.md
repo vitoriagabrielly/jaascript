@@ -1,1 +1,1 @@
-# jaascript
+# javascript
